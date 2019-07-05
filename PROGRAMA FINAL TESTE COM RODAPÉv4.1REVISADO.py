@@ -1,10 +1,11 @@
-# ╔═══════════════════════════════════════════════════╗ #
+# ╔═══════════════════════════════════════════════════════════════════════════════════════════╗ #
 
                    # PROGRAMA DE DETECÇÃO DE PEÇAS POR COR E FORMATO #
                        # ESCOLA TÉCNICA ESTADUAL PRESIDENTE VARGAS #
        # ESTEIRA SEPARADORA DE PEÇAS COM SISTEMA DE MONITORAMENTO E CONTROLE POR VíDEO #
+                             ##PROJETADO POR HENRIQUE KOMOTO##
 
-# ╚═══════════════════════════════════════════════════╝#
+# ╚═══════════════════════════════════════════════════════════════════════════════════════════╝#
 
 import cv2
 import RPi.GPIO as gpio
